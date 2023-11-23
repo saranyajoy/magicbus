@@ -145,7 +145,7 @@ export default function Ourvision() {
             </div>
 
             <div className="mt-10">
-              <h3 className="text-xl  font-bold text-gray-900">Highlights</h3>
+              <h3 className="text-2xl font-bold tracking-tight text-gray-900 underline sm:text-3xl">Our Values</h3>
 
               <div className="mt-4">
                 <ul role="list" className="list-disc font-bold space-y-2 pl-4 text-md">
